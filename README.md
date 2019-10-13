@@ -12,5 +12,8 @@ I implemented a bilingual survey for a sightseeing tour. It starts by greeting t
 
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
 
+[Link to Tour Survey in Spanish](https://www.youtube.com/watch?v=3VgwrQ4O5p8)
+[Link to Tour Survey in English](https://www.youtube.com/watch?v=y95v9iC5Qdo)
+
 ---
 Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).
